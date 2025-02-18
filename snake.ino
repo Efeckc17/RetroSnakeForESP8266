@@ -83,9 +83,9 @@ String generatePage() {
       transition: 0.3s;#include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "Core";
+const char* ssid = "ssıd";
 
-const char* password = "19841977Efe17.";
+const char* password = "password";
 
 
 
@@ -289,9 +289,9 @@ void loop() {
         if(!fDist||dist>=fDist){#include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "Core";
+const char* ssid = "ssıd";
 
-const char* password = "19841977Efe17.";
+const char* password = "password";
 
 
 
